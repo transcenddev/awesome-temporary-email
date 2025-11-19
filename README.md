@@ -6,12 +6,9 @@ Table of Contents
 
 - Description
 - Services (curated)
-- Recommended
 - Privacy Scorecards
-- Examples
-- Ideas
 - Contributing
-- License
+- Acknowledgements
 
 ## Description
 
@@ -96,10 +93,6 @@ Contributions welcome. Please open a PR with:
 - A link to the service
 - 1–2 feature tags (e.g., `API`, `Persistence`, `Privacy`)
 - Optional screenshot in `assets/`
-
-## License
-
-This curated list is suitable for a permissive license such as `CC0-1.0` or `MIT`. Add a `LICENSE` file if you want to make a specific choice.
 
 ## Acknowledgements
 
