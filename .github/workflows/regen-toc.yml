@@ -1,0 +1,39 @@
+name: Regenerate README TOC
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'README.md'
+  pull_request:
+    paths:
+      - 'README.md'
+  workflow_dispatch:
+
+jobs:
+  regen_toc:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install markdown-toc
+        run: npm install -g markdown-toc
+
+      - name: Regenerate TOC
+        run: markdown-toc -i README.md
+
+      - name: Commit TOC changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "chore(docs): regenerate README TOC"
+          add: README.md
+          author_name: github-actions[bot]
+          author_email: github-actions[bot]@users.noreply.github.com
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
