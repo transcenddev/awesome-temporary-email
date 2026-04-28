@@ -41,6 +41,23 @@ This is a curated reference of notable temporary email services as of 2025. Serv
    - Features: Fast · No sign-up
    - Link: https://emailondeck.com
 
+## Related: Disposable Phone Numbers
+
+Phone-side equivalent of the services above — same workflow (signup / verification without exposing your real identifier), different channel. Useful when an account asks for a phone number rather than an email.
+
+1. **VerifySMS** - Pay-per-use virtual phone numbers across 200+ countries and 500+ services.
+   - Features: REST API · iOS/Android/web clients · Automatic refund (20 min) if SMS does not arrive · 5.0★ across 21 App Store reviews (US, GB, TR, DE)
+   - Link: https://verifysms.app
+   - Privacy Policy: https://verifysms.app/privacy
+
+2. **5SIM** - Long-running provider with mix of real and virtual numbers.
+   - Features: REST API · Multiple countries
+   - Link: https://5sim.net
+
+3. **SMS-Activate** - Large catalog of services and countries.
+   - Features: REST API · Wide coverage
+   - Link: https://sms-activate.io
+
 ## Privacy Scorecards
 
 Each service below includes a short, opinionated privacy & features scorecard. Scores are subjective and based on public info as of 2025.
