@@ -41,6 +41,13 @@ This is a curated reference of notable temporary email services as of 2025. Serv
    - Features: Fast · No sign-up
    - Link: https://emailondeck.com
 
+10. **Mailfo** - Privacy-respecting temporary disposable email app for Android and web.
+
+   - Features: Fast OTP receiver · Disposable temporary inboxes · Clean native Android UI · No personal data tracking
+   - Link: https://mailfo.pages.dev
+   - Android App: https://play.google.com/store/apps/details?id=com.mailfo.tmailapp
+   - Recommended: **Yes** - Ideal for privacy-conscious users, QA testers, and developers requiring fast OTPs without spam.
+
 ## Privacy Scorecards
 
 Each service below includes a short, opinionated privacy & features scorecard. Scores are subjective and based on public info as of 2025.
