@@ -41,6 +41,11 @@ This is a curated reference of notable temporary email services as of 2025. Serv
    - Features: Fast · No sign-up
    - Link: https://emailondeck.com
 
+6. **TempMail Hub** - No-signup inbox with a user-selectable lifetime, translated into 30 languages, plus a Telegram bot.
+
+   - Features: Selectable lifetime (10 min–7 days) · 30 languages · Telegram bot · HTML-safe viewer
+   - Link: https://tempmailhub.net
+
 ## Privacy Scorecards
 
 Each service below includes a short, opinionated privacy & features scorecard. Scores are subjective and based on public info as of 2025.
@@ -82,6 +87,13 @@ EmailOnDeck
 
 - Logging: Medium
 - Retention: Short
+- TLS: Yes
+- API: No
+
+TempMail Hub
+
+- Logging: Medium
+- Retention: Short-Long (selectable: 10 min–7 days)
 - TLS: Yes
 - API: No
 
