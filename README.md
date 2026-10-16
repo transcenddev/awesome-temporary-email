@@ -41,6 +41,12 @@ This is a curated reference of notable temporary email services as of 2025. Serv
    - Features: Fast · No sign-up
    - Link: https://emailondeck.com
 
+6. **TempMail10min** - Fast, disposable temporary email service with 5, 10, 15, and 30-minute auto-destruct timers.
+
+   - Features: Configurable 5-30m timers • Fast OTP verification • RAM-only auto-destruct • Zero registration
+   - Link: https://temp-mail10min.online
+   - Recommended: **Yes** - Recommended for fast OTP code reception, bypassing spam, and testing signup flows.
+
 ## Privacy Scorecards
 
 Each service below includes a short, opinionated privacy & features scorecard. Scores are subjective and based on public info as of 2025.
