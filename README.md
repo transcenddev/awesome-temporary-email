@@ -41,6 +41,11 @@ This is a curated reference of notable temporary email services as of 2025. Serv
    - Features: Fast · No sign-up
    - Link: https://emailondeck.com
 
+6. **Temp Mail Pro** - Free, no-signup temporary email with a session-private inbox and real-time OTP delivery.
+
+   - Features: No sign-up · Session-private inbox · Real-time OTP delivery
+   - Link: https://tempmailpro.site
+
 ## Privacy Scorecards
 
 Each service below includes a short, opinionated privacy & features scorecard. Scores are subjective and based on public info as of 2025.
@@ -82,6 +87,13 @@ EmailOnDeck
 
 - Logging: Medium
 - Retention: Short
+- TLS: Yes
+- API: No
+
+Temp Mail Pro
+
+- Logging: Low
+- Retention: Very Short (session-based; messages purged when the session ends)
 - TLS: Yes
 - API: No
 
